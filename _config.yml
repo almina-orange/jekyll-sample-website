@@ -1,4 +1,5 @@
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
+remote_theme: benbalter/retlab
 
 title: Dance-AI Project
 description: Welcome, this is Dance-AI website.
