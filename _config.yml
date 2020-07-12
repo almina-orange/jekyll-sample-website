@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+remote_theme: jekyll/minima
+
+title: Dance-AI Project
+description: Welcome, this is Dance-AI website.
