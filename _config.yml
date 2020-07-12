@@ -1,10 +1,12 @@
 # remote_theme: jekyll/minima
 # remote_theme: benbalter/retlab
 # remote_theme: "mmistakes/minimal-mistakes@4.19.3"
-# remote_theme: kitian616/jekyll-TeXt-theme
+# remote_theme: murraco/jekyll-theme-minimal-resume
 # remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+remote_theme: remote_theme: "mmistakes/jekyll-theme-basically-basic"
+
+# remote_theme: kitian616/jekyll-TeXt-theme
 # remote_theme: CloudCannon/frisco-jekyll-template
-remote_theme: murraco/jekyll-theme-minimal-resume
 
 title: Dance-AI Project
 description: Welcome, this is Dance-AI website.
