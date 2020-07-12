@@ -1,5 +1,9 @@
 # remote_theme: jekyll/minima
-remote_theme: benbalter/retlab
+# remote_theme: benbalter/retlab
+remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 
 title: Dance-AI Project
 description: Welcome, this is Dance-AI website.
+
+plugins:
+  - jekyll-include-cache
